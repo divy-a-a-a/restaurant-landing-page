@@ -1,0 +1,113 @@
+nav{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    
+}
+h1{
+    color: white;
+    
+   
+    display: inline;
+    
+   
+}
+li{
+    color: grey;
+    display: inline;
+    cursor: pointer;
+    
+}
+ul{
+    display: inline;
+    
+    
+   
+}
+li:hover{
+    color: white;
+}
+
+.one
+{
+    
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-top: 30px;
+  
+}
+
+div{
+     text-align: center;
+}
+
+#one{
+    color: white;
+    background-color: black;
+    display: inline;
+    cursor: pointer;
+    padding: 5px;
+}
+
+#two{
+    color: white;
+    background-color: black;
+    display: inline;
+    cursor: pointer;
+    padding: 5px;
+}
+#three{
+    color: white;
+    background-color: black;
+    display: inline;
+    cursor: pointer;
+    padding: 5px;
+}
+#four{
+    color: white;
+    background-color: black;
+    display: inline;
+    cursor: pointer;
+    padding: 5px;
+}
+#one:hover{
+    color: red;
+
+}
+#two:hover{
+    color: red;
+}
+#three:hover{
+    color: red;
+}
+#four:hover{
+    color: red;
+}
+
+.two{
+    color: white;
+   
+    margin: top 30px;
+    
+    
+}
+.three{
+    padding-left: 40%;
+    color: white;
+   
+}
+h3{
+    color: black;
+    background-color: yellow;
+    display: inline-block;
+    width: 600px;
+    height: 30px;
+    text-align: center;
+    padding-top: 2px;
+cursor: pointer;}
+h3:hover{
+    color:blue;
+}
